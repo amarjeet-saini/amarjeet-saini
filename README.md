@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amarjeet-saini
-- 👀 I’m interested in Computer architecture, Harware security , Digital System Design
+- 👀 I’m interested in Computer Systems
 - 🌱 I’m currently self-learning 
 
 <!---
